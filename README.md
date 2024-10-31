@@ -1,2 +1,2 @@
-# video_metadata_fixer
-To fix the variety of metadata issues that cause bad playing of video files. Including audio track language, resolution, codec and bit rate. This is my first public python script, and yes I did get help from ChatGPT, however I have been a programmer in many languages over many decades.
+# Project Title: Video Metadata Fixer
+Video files often come from a wide array of sources, leading to inconsistencies and inaccuracies in their metadata—such as audio language, resolution, bitrate, and codec. This project aims to develop a user-friendly GUI application for Windows and Linux that allows users to select a folder containing video files. The tool will identify metadata issues, retrieve accurate data, and update the video files accordingly, ensuring that your media library is organized and properly tagged.
