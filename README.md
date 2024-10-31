@@ -1,8 +1,5 @@
 # Video Metadata Fixer
 
-![Project Logo](link-to-your-logo.png) <!-- Optional -->
-
-[![Build Status](link-to-build-status-badge)](link-to-your-build-status)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## Description
@@ -21,3 +18,6 @@ The Video Metadata Fixer is an intuitive GUI application for Windows and Linux t
 1. Clone the repository:
    ```bash
    git clone https://github.com/crosenblum/video-metadata-fixer.git
+
+Contributing
+- Contributions are welcome! Please read our Contributing Guidelines for details on how to contribute.
