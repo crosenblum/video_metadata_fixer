@@ -1,0 +1,4 @@
+ffmpeg-python==0.2.0
+langid==1.1.6
+SpeechRecognition==3.8.1
+tkinter
